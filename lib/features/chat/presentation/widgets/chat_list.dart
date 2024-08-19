@@ -5,16 +5,23 @@ import 'package:flutter_chat/features/chat/presentation/widgets/chat_item.dart';
 class ChatList extends StatelessWidget {
   final List<Chat> chats = [
     Chat(
-        name: "John Doe",
-        message: "Hey, how are you?",
-        time: "15:30",
-        avatarUrl: "https://example.com/avatar1.png"),
+      name: "Jorge Grullón",
+      message: "Hola, buen dia",
+      time: "15:30",
+      avatarUrl: "https://example.com/avatar1.png",
+    ),
     Chat(
-        name: "Jane Smith",
-        message: "Let's catch up later.",
-        time: "14:20",
-        avatarUrl: "https://example.com/avatar2.png"),
-    // Agrega más chats aquí
+      name: "Pro System",
+      message: "Coma mierda, cerote",
+      time: "14:20",
+      avatarUrl: "https://example.com/avatar2.png",
+    ),
+    Chat(
+      name: "Andrea",
+      message: "Hola, buen dia",
+      time: "12:30",
+      avatarUrl: "https://example.com/avatar1.png",
+    ),
   ];
 
   ChatList({super.key});
