@@ -8,19 +8,19 @@ class ChatList extends StatelessWidget {
       name: "Jorge Grullón",
       message: "Hola, buen dia",
       time: "15:30",
-      avatarUrl: "https://example.com/avatar1.png",
+      avatarUrl: "http://ru.mr/wiocdi",
     ),
     Chat(
       name: "Pro System",
       message: "Coma mierda, cerote",
       time: "14:20",
-      avatarUrl: "https://example.com/avatar2.png",
+      avatarUrl: "http://delvigzu.br/anumebwus",
     ),
     Chat(
       name: "Andrea",
       message: "Hola, buen dia",
       time: "12:30",
-      avatarUrl: "https://example.com/avatar1.png",
+      avatarUrl: "http://voc.mw/vokbikul",
     ),
   ];
 
